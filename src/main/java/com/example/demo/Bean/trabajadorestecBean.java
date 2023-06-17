@@ -24,6 +24,7 @@ public class trabajadorestecBean {
         this.idtienda = idtienda;
     }
 
+    //Aqui se registra el DNI
     public String getDni() {
         return dni;
     }
